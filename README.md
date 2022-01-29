@@ -7,4 +7,4 @@ and if u want you can replace it with PassList.txt. Have fun cracking passwords!
                                                                                          
                                                                                          
                                                                                          
-                                             [*] JUST USE FOR ETHICAL HACKING. [*]
+                                         [*] JUST USE FOR ETHICAL HACKING. [*]
